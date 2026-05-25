@@ -1,0 +1,6 @@
+{
+  "name": "Support Chatbot",
+  "description": "Enterprise-grade high-speed customer support chatbot using the real-time Gemini API with latency analysis and offline session persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
